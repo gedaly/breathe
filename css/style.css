@@ -44,8 +44,8 @@ footer,
     margin: auto auto;
   border-radius: 50%;
   box-shadow: -1px 1px 5px rgba(0,0,0,.4);
-  -webkit-animation: loader ease-in-out 7s infinite alternate;
-  -moz-animation: loader ease-in-out 7s infinite alternate;
+  -webkit-animation: loader ease-in-out 6s infinite alternate;
+  -moz-animation: loader ease-in-out 6s infinite alternate;
 }
 
 @-webkit-keyframes loader {
